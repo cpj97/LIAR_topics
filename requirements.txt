@@ -1,6 +1,7 @@
 # Dataset manipulation
 datasets
 pandas
+fsspec==2024.10.0
 
 # Tokenization
 nltk
@@ -11,6 +12,7 @@ gensim
 # Coherence score and LDA Topic Modeling
 matplotlib
 numpy
+
 
 # Visualizations
 seaborn
