@@ -1,0 +1,17 @@
+# Dataset manipulation
+datasets
+pandas
+
+# Tokenization
+nltk
+spacy
+scikit-learn
+gensim
+
+# Coherence score and LDA Topic Modeling
+matplotlib
+numpy
+
+# Visualizations
+seaborn
+wordcloud
